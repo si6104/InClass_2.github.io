@@ -1,0 +1,23 @@
+{
+  "users":
+          [
+            {
+              "DisplayName" : "Sai trivedi",
+              "EmailAddress" : "trivedi610@gmamil.com",
+              "Username": "sai",
+              "Password": "123456"
+            },
+            {
+              "DisplayName" : "het Patel",
+              "EmailAddress" : "hetpatel9@gmamil.com",
+              "Username": "hetP",
+              "Password": "789654"
+            },
+            {
+              "DisplayName" : "admin",
+              "EmailAddress" : "admin@durhamcollege.com",
+              "Username": "admin",
+              "Password": "password"
+            }
+          ]
+}
